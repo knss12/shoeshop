@@ -51,7 +51,7 @@
   - #### 신발 아이템 나열하기
 
   <div align="center">
-      <img src = ""> // 홈화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/d3b72ef7-9b5e-42fc-b54b-ba5488cf8e22"> // 홈화면 캡쳐한 이미지 넣기
   </div>
 
   - data.js에 저장된 데이터를 가져와서 나열해준다.
