@@ -88,8 +88,8 @@
           <img src = "https://github.com/knss12/shoeshop/assets/121605903/edc1fc69-c05b-453b-949a-259eff9efade" > 
   </div>
 
-  - movinginfo 함수를 만들어서 각 아이템을 클릭 시 해당 아이템의 rank를 확인후 일치하면 "/detail/rank의 id"로 이동하게 해준다
-  - 해당 페이지에는 상품 html이 3개 이므로 movinginfo 함수도 3개를 만들어서 사용하였다 (movinginfo0 ~ movinginfo2)
+  - movinginfo 함수를 만들어서 각 아이템을 클릭 시 해당 아이템의 rank를 확인후 일치하면 "/detail/rank의 id"로 이동하게 해준다.
+  - 해당 페이지에는 상품 html이 3개 이므로 movinginfo 함수도 3개를 만들어서 사용하였다. (movinginfo0 ~ movinginfo2)
 
   ## Men 화면
 
