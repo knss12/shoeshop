@@ -51,7 +51,7 @@
   - #### 신발 아이템 나열하기
 
   <div align="center">
-      <img src = "https://github.com/knss12/shoeshop/assets/121605903/d3b72ef7-9b5e-42fc-b54b-ba5488cf8e22"> // 홈화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/d3b72ef7-9b5e-42fc-b54b-ba5488cf8e22"> 
   </div>
 
   - data.js에 저장된 데이터를 가져와서 나열해준다.
@@ -59,7 +59,7 @@
   - #### Navbar에 Home, Men, Women, Cart, Q&A, Login 링크 나열
 
   <div align="center">
-      <img src = ""> // Navbar 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/183c10ee-57a6-43da-9bee-a941ff0d07a2"> // Navbar 캡쳐한 이미지 넣기
   </div>
 
   - Link, useNavigate와 onClick을 사용하여 배너 클릭시 해당 화면으로 이동한다.
@@ -69,7 +69,7 @@
   - #### 신발 데이터 info 관련
 
   <div align="center">
-      <img src = ""> // Detail화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/00d086d8-bdc6-4234-8a54-35db8a7eb142"> // Detail화면 캡쳐한 이미지 넣기
   </div>
 
   - 홈 화면에서 신발아이템 클릭 시 해당하는 아이템의 화면으로 이동한다
@@ -85,7 +85,7 @@
   - #### 더보기 버튼 누르면 상품html 추가하기
 
   <div align="center">
-      <img src = ""> // Men 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/0e04195d-d3e4-4a33-b870-d4720fe125f5"> // Men 화면 캡쳐한 이미지 넣기
   </div>
 
   - map함수를 사용해서 기본 상품html을 나열해준다.
@@ -97,7 +97,7 @@
   - #### 장바구니 화면
 
   <div align="center">
-      <img src = ""> // Cart 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/4324637d-c16d-4acf-878c-5fa5c82ebbc5"> // Cart 화면 캡쳐한 이미지 넣기
   </div>
 
   - '+' 버튼을 누르면 수량이 추가된다.
@@ -107,7 +107,7 @@
   - #### 글올리기 및 삭제 기능
 
   <div align="center">
-      <img src = ""> // 게시된 글 모달 창 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/68be4160-0c3c-4767-b852-79bbb1f10521"> // 게시된 글 모달 창 캡쳐한 이미지 넣기
   </div>
 
   - 게시된 글 제목을 클릭 시 상세 정보가 들어있는 모달창이 나타난다.
@@ -120,7 +120,7 @@
   - #### 잘못된 url 주소로 이동시 해당 화면이 나옴
 
   <div align="center">
-      <img src = ""> // NotFound 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/cbbbd144-82e1-448d-af3f-ffb440f12ee8"> // NotFound 화면 캡쳐한 이미지 넣기
   </div>
 
   - useNavigate와 onClick을 이용해 메인 페이지로 이동이 가능하다.
@@ -130,7 +130,7 @@
   - #### 로그인 화면
 
   <div align="center">
-      <img src = ""> // 로그인 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/be73f3eb-2f79-410f-a148-461c9037c4e1"> // 로그인 화면 캡쳐한 이미지 넣기
   </div>
 
   - ID와 PW를 입력할 수 있는 input 제작
@@ -140,7 +140,7 @@
   - #### 회원가입(Account)화면
 
   <div align="center">
-      <img src = ""> // 회원가입 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/shoeshop/assets/121605903/889e01d6-b1b6-4d6e-b80c-5cdd42b55bd0"> // 회원가입 화면 캡쳐한 이미지 넣기
   </div>
 
   - 회원가입에 필요한 정보를 입력할 수 있는 input창 제작
