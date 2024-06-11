@@ -54,6 +54,8 @@
       <img src = "https://github.com/knss12/shoeshop/assets/121605903/d3b72ef7-9b5e-42fc-b54b-ba5488cf8e22"> 
   </div>
 
+
+
   - data.js에 저장된 데이터를 가져와서 나열해준다.
 
   - #### Navbar에 Home, Men, Women, Cart, Q&A, Login 링크 나열
@@ -61,6 +63,8 @@
   <div align="center">
       <img src = "https://github.com/knss12/shoeshop/assets/121605903/183c10ee-57a6-43da-9bee-a941ff0d07a2"> 
   </div>
+
+
 
   - Link, useNavigate와 onClick을 사용하여 배너 클릭시 해당 화면으로 이동한다.
 
