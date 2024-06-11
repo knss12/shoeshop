@@ -72,6 +72,7 @@
       <img src = "https://github.com/knss12/shoeshop/assets/121605903/00d086d8-bdc6-4234-8a54-35db8a7eb142"> 
   </div>
 
+
   - 홈 화면에서 신발아이템 클릭 시 해당하는 아이템의 화면으로 이동한다
   - useParams를 사용하여 id를 가져온다
   - useState를 사용해 모달 창과 탭 변수를 저장하여 사용한다.
@@ -79,6 +80,13 @@
   - '상세정보' 버튼을 누르면 모달 창이 열리며 '닫기'를 누르면 모달 창이 닫힌다.
   - useDispatch를 이용하여 '구매하기' 버튼을 누르면 Cart화면에 아이템이 추가된다.
   - if문과 Component를 사용하여 탭 화면을 제작하였다.
+ 
+  <div align="center">
+          <img src = "https://github.com/knss12/shoeshop/assets/121605903/edc1fc69-c05b-453b-949a-259eff9efade" > 
+  </div>
+
+  - movinginfo 함수를 만들어서 각 아이템을 클릭 시 해당 아이템의 rank를 확인후 일치하면 "/detail/rank의 id"로 이동하게 해준다
+  - 해당 페이지에는 상품 html이 3개 이므로 movinginfo 함수도 3개를 만들어서 사용하였다 (movinginfo0 ~ movinginfo2)
 
   ## Men 화면
 
