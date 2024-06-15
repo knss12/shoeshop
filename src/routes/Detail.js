@@ -37,7 +37,7 @@ function Detail(props) {
             className="mx-3"
             onClick={() => {
               dispatch(
-                addItem({ id: 1, name: "Nike Dunk Low Retro SE", count: 1 })
+                addItem({ id: 1, name: props.shoes[id].title, count: 1 })
               );
             }}
           >
